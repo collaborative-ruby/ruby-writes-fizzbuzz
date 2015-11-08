@@ -2,7 +2,7 @@
 1.upto(69) {|m|
 case m %3
 _when
-;puts m
+;puts F
 end;
 }
 module Perk
