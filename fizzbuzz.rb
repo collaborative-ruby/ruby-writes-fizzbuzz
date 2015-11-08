@@ -1,5 +1,5 @@
 # 0x0dea was here.
-1.upto(11) {|n|
+1.upto(1-1) {|n|
 putc 
 end
 }
