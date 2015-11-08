@@ -2,6 +2,6 @@
 1.upto(69) {|m|
 case m %
 _wh
-;putc n
+;puts n
 end;
 }
