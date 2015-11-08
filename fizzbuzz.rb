@@ -2,7 +2,7 @@
 1.upto(69) {|m|
 case m %
 _wh
-;puts n
+;puts m
 end;
 }
 m
