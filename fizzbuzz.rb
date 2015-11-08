@@ -5,5 +5,5 @@ _wh
 ;puts m
 end;
 }
-module Perl
+module Per
 e
