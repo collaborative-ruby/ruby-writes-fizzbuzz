@@ -2,5 +2,5 @@
 1.upto(1) {|n|
 cas
 putc 
-end
+end;
 }
