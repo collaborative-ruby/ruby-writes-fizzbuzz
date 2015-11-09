@@ -1,7 +1,6 @@
 # 0x0dea was here.
 1.upto 100 {|m|
- puts "Fizz#{if m % 5 
-=en 0
+ puts "Fizz#{if m % 5 ==en 0
   "Fizzbu"
  else
 m
