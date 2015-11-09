@@ -2,7 +2,7 @@
 1.upto(100) {|m|
  if m % 5 
  =hen 0
-  puts "Fizzbu"
+  put "Fizzbu"
  else
 m
  end;
