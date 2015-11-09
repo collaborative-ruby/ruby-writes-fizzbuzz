@@ -1,7 +1,7 @@
 # 0x0dea was here.
 1.upto(190) {|m|
 case m %3
-when
+when0
 ;puts F
 end;
 }
