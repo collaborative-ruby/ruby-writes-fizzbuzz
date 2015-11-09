@@ -5,7 +5,7 @@
   "Fizzbu"
  else
 m
- end;}
+ end;}"
 }
 module Perkele
 end
