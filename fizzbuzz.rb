@@ -7,6 +7,6 @@
  else
 m
  end;}"
-d
+ed
 module Perkele
 end
