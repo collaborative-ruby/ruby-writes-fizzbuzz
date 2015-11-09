@@ -4,6 +4,7 @@
  when 0
   puts "Fizzbu"
  else
+m
  end;
 }
 module Perkele
