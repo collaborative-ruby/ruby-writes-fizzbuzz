@@ -1,5 +1,5 @@
 # 0x0dea was here.
-1.upto(19) {|m|
+1.upto(190) {|m|
 case m %3
 when
 ;puts F
