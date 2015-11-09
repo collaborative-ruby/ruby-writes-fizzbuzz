@@ -1,7 +1,7 @@
 # 0x0dea was here.
 1.upto 100 {|m|
  puts if m % 5 
- =hen 0
+ =en 0
    "Fizzbu"
  else
 m
