@@ -2,7 +2,7 @@
 1.upto 100 {|m|
  puts if m % 5 
  =hen 0
-  u "Fizzbu"
+   "Fizzbu"
  else
 m
  end;
