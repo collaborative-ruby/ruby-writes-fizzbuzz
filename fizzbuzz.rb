@@ -1,6 +1,6 @@
 # 0x0dea was here.
 1.upto 100 {|m|
- puts "Fi#{if m % 5 
+ puts "Fiz#{if m % 5 
 =en 0
   "Fizzbu"
  else
