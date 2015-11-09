@@ -5,5 +5,5 @@
   puts "Fizzb"
  end;
 }
-module Perkel
+module Perkele
 end
