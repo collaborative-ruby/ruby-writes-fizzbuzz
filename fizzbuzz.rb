@@ -5,5 +5,5 @@ when 0
 ;puts "F"
 end;
 }
-module Perk
+module Perke
 en
