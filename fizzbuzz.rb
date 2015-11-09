@@ -3,7 +3,7 @@
  ifse m %5 
  when 0
   puts "Fizzbu"
- els
+ else
  end;
 }
 module Perkele
