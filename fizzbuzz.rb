@@ -1,9 +1,9 @@
 # 0x0dea was here.
-1.upto(69) {|m|
+1.upto(100) {|m|
 case m %3
-_whe
-;puts m
+when 0
+;puts F
 end;
 }
-#module Per
-e
+module Perk
+en
