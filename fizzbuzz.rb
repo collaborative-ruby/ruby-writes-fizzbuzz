@@ -5,5 +5,5 @@ when 0
  puts "Fiz"
 end;
 }
-module Perke
+module Perkel
 end
