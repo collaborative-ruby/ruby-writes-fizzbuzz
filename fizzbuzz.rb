@@ -2,7 +2,7 @@
 1.upto(100) {|m|
  case m %3
  when 0
-  puts "Fizz"
+  puts "Fizzb"
  end;
 }
 module Perkel
