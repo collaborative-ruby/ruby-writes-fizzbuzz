@@ -2,7 +2,7 @@
 1.upto 100 do |m|
  print "Fizz"#{(%).zer? ? ?B+"z"*2}"if n % 5 ==0
  print "Buzz" 
-=en 0
+=en 
   "FizzBuz"
  else
 m
