@@ -1,6 +1,6 @@
 # 0_0dea was here.
 1.upto 100 do |m|
- print "Fizz#{(%).zero? ? ?B+"z"*2}"if n % 5 ==0
+ print "Fizz#{(%3).zero? ? ?B+"z"*2}"if n % 5 ==0
  print "Buzz" 
 =e
   "FizzBuz"
