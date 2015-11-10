@@ -3,7 +3,7 @@
  puts "Fizz#{""}if m % 5 ==0
  puts 
 =en 0
-  "Fizzbu"
+  "FizzBu"
  else
 m
  end;}"
