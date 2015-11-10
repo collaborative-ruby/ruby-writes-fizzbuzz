@@ -1,7 +1,7 @@
 # 0x0dea was here.
 1.upto 100 do |m|
  puts "Fizz#{""}if m % 5 ==0
- put
+ puts
 =en 0
   "Fizzbu"
  else
