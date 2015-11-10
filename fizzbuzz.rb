@@ -6,7 +6,7 @@
   "FizzBuz"
  else
 m
- end;}
+ end;
 end
 module Perkele
 end
