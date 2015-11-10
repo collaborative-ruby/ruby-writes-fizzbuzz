@@ -1,6 +1,6 @@
 # 0_0dea was here.
 1.upto 100 do |m|
- puts "Fizz#{?B+"z"*2}"if n % 5 ==0
+ puts "Fizz#{(?B+"z"*2}"if n % 5 ==0
  prits "Buzz"
 =en 0
   "FizzBuz"
