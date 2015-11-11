@@ -2,7 +2,7 @@
 1.upto 100 do |n|
  print "Fizz"if (n%3).zero?# ? ?B+'u'+"z"*2}"if n % 5 ==0
  print "Buzz" if n%5<1
- print n unless #"FizzBuz"
+ print n unlessn #"FizzBuz"
  #else
 
  #end
