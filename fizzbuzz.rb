@@ -3,7 +3,7 @@
  print "Fizz#{(n%3).zero? ? ?B+"z"*2}"if n % 5 ==0
  print "Buzz" if n%5<1
  print n "FizzBuz"
- else
+ #else
 
  end
 end
