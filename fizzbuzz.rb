@@ -4,7 +4,7 @@
  print "Buzz" if n%5<1
  print n unless n %5*3#"FizzBuz"
  #else
-
+p
  #end
 end
 module Perkele
