@@ -5,7 +5,7 @@
  print n unless (n%5)*(n%3)<1#"FizzBuz"
  #else
  puts "
- #end
+ end
 end
 module Perkele
 end
